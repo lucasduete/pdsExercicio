@@ -1,0 +1,8 @@
+﻿CREATE TABLE USUARIO (
+	login VARCHAR(45),
+	senha VARCHAR(18)  NOT NULL,
+	PRIMARY KEY(login)
+);
+
+INSERT INTO USUARIO VALUES ('adimin', 'admin');
+INSERT INTO USUARIO VALUES ('user', 'user');

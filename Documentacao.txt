@@ -1,4 +1,4 @@
-3 Min -> Criação do Banco de Dados (17:51 ate 17:53)
+2 Min -> Criação do Banco de Dados (17:51 ate 17:53)
 3  Min -> Criação da Classe de Conexão com o BD e Classe que Realiza o Login (17:53 ate 17:56)
 19 Min -> Criação da Tela de Login e Implementação da Funcionalidade de Login (17:56 ate 18:15)
 
